@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+overflow: hidden;
+}
+.logo{
+background-color: chocolate;
+width: 30%;
+height: 100px;
+float: left;
+text-align: center;
+}
+nav{
+background-color: darkgoldenrod;
+width: 70%;
+height: 100px;
+float: left;
+text-align: center;
+}
+.header_bar{
+    background-color: darkslategray;
+    width: 100%;
+    height: 60px;
+text-align: center;
+color: floralwhite;
+}
+.content{
+overflow: hidden;
+text-align: center;
+color: ivory;
+}
+.left_content{
+background-color: forestgreen;
+width: 30%;
+height: 500px;
+float: left;
+}
+
+.center_content{
+background-color: gold;
+width: 40%;
+height: 500px;
+float: left;
+}
+.right_content{
+    background-color: greenyellow;
+    width: 30%;
+    height: 500px;
+    float: left;
+}
+.top_content{
+background-color: red;
+height: 30%;
+}
+.menu_content{
+height: 40%;
+background-color: sandybrown;
+overflow: hidden;
+}
+.botton_content{
+height: 30%;
+background-color: slateblue;
+}
+.menu_left{
+    background-color: slategrey;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+.menu_right{
+    background-color: rgb(243, 239, 2);
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+.footer_bar{
+    background-color: violet;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color: whitesmoke;
+}
